@@ -2,12 +2,15 @@
 
 Finance Professional | Derivatives Analyst | Investment Banking Specialist | Social Media Consultant
 
+
 🔹**About Me**
 
 I am an MBA in Finance with over 12 years of experience across Investment Banking, Capital Markets, and Middle Office Operations.
-My expertise lies in derivatives trading, regulatory reporting, and reference data management.
+
+My expertise lies in trade life cycle, financial advisory, stock & derivatives trading, regulatory reporting, and reference data management.
 
 Alongside my financial services career, I also provide freelance support in social media management, content creation, and virtual assistance, helping startups and small businesses build their online presence.
+
 
 🔹**Core Skills**
 
@@ -27,6 +30,7 @@ Alongside my financial services career, I also provide freelance support in soci
 
 🛠️ Tools: Bloomberg, Reuters, Screener, Omgeo Alert, TradingView, Trendlyne, MS Office, Advanced MS Excel, Finance Content Creation, SQL Basics, GTM, GRS, EDM
 
+
 🔹 **Featured Projects** -
 
 📘 **Equity Research Reporting**
@@ -45,6 +49,7 @@ Contributed to reporting frameworks under MiFID, MiFIR, and EMIR, performing dat
 
 📊 **Advanced Excel Financial KPI Reporting**
 
+
 🔹 **Achievements**
 
 🏆 Led a 15-member team in trade operations, improving efficiency and reducing errors by 20%.
@@ -54,6 +59,7 @@ Contributed to reporting frameworks under MiFID, MiFIR, and EMIR, performing dat
 📈 Delivered insightful equity research reports used in investment decision-making.
 
 🎯 Built organic social media growth strategies for startups without paid ads.
+
 
 🔹 **Education & Certifications**
 
@@ -66,6 +72,7 @@ Contributed to reporting frameworks under MiFID, MiFIR, and EMIR, performing dat
 📜 Tableau Essential Training (LinkedIn)
 📜 Learning Power BI Desktop (LinkedIn)
 📜 Indian Stock Market Certification (Udemy)
+
 
 🔹 **Let's Connect**
 
