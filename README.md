@@ -80,9 +80,9 @@ Delivered a clear, visual report showcasing key business KPIs
 
 📧 Email: rahulparab21@gmail.com 
 
-🔗 LinkedIn: linkedin.com/in/rahulparab21 
+🔗 LinkedIn: https://www.linkedin.com/in/rahulparab21/ 
 
-🌐 GitHub: rahulparab21 
+🌐 GitHub: https://rahulparab21.github.io/ 
 
 🌍 Upwork - https://www.upwork.com/freelancers/~01e76de898eae6043e?viewMode=1 
 
