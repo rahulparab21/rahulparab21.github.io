@@ -1,14 +1,15 @@
-👋 Hi, I'm Rahul Parab
+👋 # **Hi, I'm Rahul Parab**
 
 Finance Professional | Derivatives Analyst | Investment Banking Specialist | Social Media Consultant
 
-🔹 About Me
+🔹## **About Me**
 
-I am an MBA in Finance with over 12 years of experience across Investment Banking, Capital Markets, and Middle Office Operations. My expertise lies in derivatives trading, regulatory reporting, and reference data management.
+I am an MBA in Finance with over 12 years of experience across Investment Banking, Capital Markets, and Middle Office Operations.
+My expertise lies in derivatives trading, regulatory reporting, and reference data management.
 
 Alongside my financial services career, I also provide freelance support in social media management, content creation, and virtual assistance, helping startups and small businesses build their online presence.
 
-🔹 Core Skills
+🔹## **Core Skills**
 
 📊 Capital Market Operations & Trade Life Cycle
 
@@ -22,29 +23,29 @@ Alongside my financial services career, I also provide freelance support in soci
 
 🖥️ Advanced Excel, Data Entry & Reporting
 
-🎯 Social Media Management & Content Creation
+🎯 Leadership, Mentorship and Client Engagement
 
-🛠️ Tools: Bloomberg, Reuters, Screener, NSE India, TradingView, Trendlyne, MS Office
+🛠️ Tools: Bloomberg, Reuters, Screener, Omgeo Alert, TradingView, Trendlyne, MS Office, Advanced MS Excel, Finance Content Creation, SQL Basics, GTM, GRS, EDM
 
-🔹 Featured Projects
+🔹 ## **Featured Projects&& -
 
-📘 Equity Research Reporting
+📘 ### **Equity Research Reporting**
 
-Created detailed equity research reports using financial data sources (Screener, TradingView, NSE India, Trendlyne). Designed professional layouts with Canva & MS Office, ensuring data accuracy and clarity for investment decisions.
+Created detailed equity research reports using financial data sources (Screener, TradingView, NSE India, Trendlyne).
+Designed professional layouts with Canva & MS Office, ensuring data accuracy and clarity for investment decisions.
 
-📊 Reference Data Management in Investment Banking
+📊 ### **Reference Data Management in Investment Banking**
 
-Worked on securities setup, static data maintenance, and vendor feeds (Bloomberg/Reuters). Ensured smooth trade life cycle by maintaining data integrity across systems, minimizing breaks, and supporting regulatory compliance.
+Worked on securities setup, static data maintenance, and vendor feeds (Bloomberg/Reuters).
+Ensured smooth trade life cycle by maintaining data integrity across systems, minimizing breaks, and supporting regulatory compliance.
 
-📑 Regulatory Reporting Automation
+📑 ### **Regulatory Reporting Automation**
 
 Contributed to reporting frameworks under MiFID, MiFIR, and EMIR, performing data validation and exception handling to meet compliance requirements.
 
-🎥 Social Media Growth for Businesses
+📊 ### **Advanced Excel Financial KPI Reporting**
 
-Helped small businesses improve engagement and visibility by managing Instagram, YouTube, and LinkedIn. Created content calendars, posts, reels, and analytics reports to track growth.
-
-🔹 Achievements
+🔹 ## **Achievements**
 
 🏆 Led a 15-member team in trade operations, improving efficiency and reducing errors by 20%.
 
@@ -54,18 +55,27 @@ Helped small businesses improve engagement and visibility by managing Instagram,
 
 🎯 Built organic social media growth strategies for startups without paid ads.
 
-🔹 Education & Certifications
+🔹 **Education & Certifications**
 
 🎓 MBA in Finance
+🎓 Digital SKills Course from Skill Arbitrage
 
-📜 Advanced Excel & Data Analytics (self-paced learning)
+📜 Advanced Excel & Data Analytics (Linkedin)
+📜 NISM-Series-VIII : Equity Derivatives Certification Examination (NISM)
+📜 Finance Foundations: Corporate Governance (LinkedIn)
+📜 Notion AI: Your New Productivity Partner (LinkedIn)
+📜 Tableau Essential Training (LinkedIn)
+📜 Learning Power BI Desktop (LinkedIn)
+📜 Indian Stock Market Certification (Udemy)
 
-📜 Ongoing certifications in Financial Markets & Digital Marketing
+🔹 **Let's Connect**
 
-🔹 Let's Connect
-
-📧 Email: your.email@example.com
-
-🔗 LinkedIn: linkedin.com/in/rahulparab
-
+📧 Email: rahulparab21@gmail.com
+🔗 LinkedIn: linkedin.com/in/rahulparab21
 🌐 GitHub: rahulparab21
+🌍 Upwork - https://www.upwork.com/freelancers/~01e76de898eae6043e?viewMode=1
+🌍 Fiverr - https://www.fiverr.com/rahulparab212?public_mode=true
+🌐 Website - https://www.notion.so/My-Professional-Portfolio-2640a4dd98fc80a09c99e6ab93d5d2dc?source=copy_link
+
+    
+    []()
