@@ -27,6 +27,7 @@ Alongside my financial services career, I also provide freelance support in soci
 🛠️ Tools: Bloomberg, Reuters, Screener, NSE India, TradingView, Trendlyne, MS Office
 
 🔹 Featured Projects
+
 📘 Equity Research Reporting
 
 Created detailed equity research reports using financial data sources (Screener, TradingView, NSE India, Trendlyne). Designed professional layouts with Canva & MS Office, ensuring data accuracy and clarity for investment decisions.
