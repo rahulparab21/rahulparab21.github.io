@@ -1,6 +1,6 @@
 👋 **Hi, I'm Rahul Parab**
 
-Finance Professional | Derivatives Analyst | Investment Banking Specialist | Social Media Consultant
+Finance Professional | Derivatives Analyst | Investment Banking Specialist | Advanced Excel Specialist | Data Analytics
 
 
 🔹**About Me**
