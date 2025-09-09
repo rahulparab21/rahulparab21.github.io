@@ -48,6 +48,8 @@ Ensured smooth trade life cycle by maintaining data integrity across systems, mi
 Contributed to reporting frameworks under MiFID, MiFIR, and EMIR, performing data validation and exception handling to meet compliance requirements.
 
 📊 **Advanced Excel Financial KPI Reporting**
+Built a financial reporting dashboard by transforming raw data into structured insights.
+Delivered a clear, visual report showcasing key business KPIs
 
 
 🔹 **Achievements**
@@ -58,7 +60,7 @@ Contributed to reporting frameworks under MiFID, MiFIR, and EMIR, performing dat
 
 📈 Delivered insightful equity research reports used in investment decision-making.
 
-🎯 Built organic social media growth strategies for startups without paid ads.
+🎯 Created Pivot Tables & Charts for sales and profitability trends and used formulas, lookups & conditional formatting for financial metrics.
 
 
 🔹 **Education & Certifications**
