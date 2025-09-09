@@ -47,7 +47,8 @@ Ensured smooth trade life cycle by maintaining data integrity across systems, mi
 
 Contributed to reporting frameworks under MiFID, MiFIR, and EMIR, performing data validation and exception handling to meet compliance requirements.
 
-📊 **Advanced Excel Financial KPI Reporting**
+📊 **Advanced Excel Financial KPI Reporting** 
+
 Built a financial reporting dashboard by transforming raw data into structured insights.
 Delivered a clear, visual report showcasing key business KPIs
 
