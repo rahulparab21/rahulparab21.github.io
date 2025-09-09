@@ -78,12 +78,18 @@ Delivered a clear, visual report showcasing key business KPIs
 
 🔹 **Let's Connect**
 
-📧 Email: rahulparab21@gmail.com
-🔗 LinkedIn: linkedin.com/in/rahulparab21
-🌐 GitHub: rahulparab21
-🌍 Upwork - https://www.upwork.com/freelancers/~01e76de898eae6043e?viewMode=1
-🌍 Fiverr - https://www.fiverr.com/rahulparab212?public_mode=true
-🌐 Website - https://www.notion.so/My-Professional-Portfolio-2640a4dd98fc80a09c99e6ab93d5d2dc?source=copy_link
+📧 Email: rahulparab21@gmail.com 
+
+🔗 LinkedIn: linkedin.com/in/rahulparab21 
+
+🌐 GitHub: rahulparab21 
+
+🌍 Upwork - https://www.upwork.com/freelancers/~01e76de898eae6043e?viewMode=1 
+
+🌍 Fiverr - https://www.fiverr.com/rahulparab212?public_mode=true 
+
+🌐 Website - https://www.notion.so/My-Professional-Portfolio-2640a4dd98fc80a09c99e6ab93d5d2dc?source=copy_link 
+
 
     
     []()
